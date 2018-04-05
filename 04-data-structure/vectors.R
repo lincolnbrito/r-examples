@@ -27,4 +27,5 @@ y <- 2:-2; y
 Creating a complex vector with seq() function
 "
 seq(1, 3, by=0.025)
-seq(1, 3, length.out=4)
+seq(1.2, 1001, length.out=4)
+
